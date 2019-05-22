@@ -2,11 +2,8 @@
     display: none;
 }
 
-.bold {
-    font-weight: bold;
-}
-
 span:hover {
     cursor: pointer;
+    font-weight: bold;
 }
 
